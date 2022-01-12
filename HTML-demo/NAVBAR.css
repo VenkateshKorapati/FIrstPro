@@ -1,0 +1,20 @@
+.navbar{
+    background-color: blue;
+}
+.navbar a{
+    color: white;
+}
+.container .jumbotron{
+    text-align: center;
+    background: Orange;
+    color: black;
+    margin: 150px
+}
+.jumbotron p{
+    font-size: 2em;
+}
+.jumbotron a{
+    background: green;
+    color: white;
+    font-size: 1.5em;
+}
